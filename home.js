@@ -1,6 +1,6 @@
 const fs = require('fs')
 const path = require('path')
-const serveMarked = require('serve-marked').default
+const { serveMarked } = require('serve-marked')
 
 const icons = require('./icons.js')
 
