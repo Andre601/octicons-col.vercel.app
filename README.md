@@ -30,11 +30,15 @@ The following patterns are available for you to use. You may also use https://oc
 
 Some examples:
 
-- Black GitHub logo: [`octicons.andre601.ch/mark-github/000`](https://octicons.andre601.ch/mark-github/000)
-- Check icon with GitHub's `--color-btn-primary-bg` color: [`octicons.andre601.ch/check-circle-fill/238636`](https://octicons.andre601.ch/check-circle-fill/238636)
-- Git Merge icon with GitHub's `--color-done-fg` color and size 100: [`octicons.andre601.ch/git-merge/a371f7/100`](https://octicons.andre601.ch/git-merge/a371f7/100)
+- Black GitHub logo: [`octicons.andre601.ch/mark-github/000`][mark-github-000]
+- Check icon with GitHub's `--color-btn-primary-bg` color: [`octicons.andre601.ch/check-circle-fill/238636`][check-circle-fill-238636]
+- Git Merge icon with GitHub's `--color-done-fg` color and size 100: [`octicons.andre601.ch/git-merge/a371f7/100`][git-merge-a371f7]
 
 [license-src]: https://img.shields.io/badge/License-MIT-blue?style=for-the-badge
 [license-href]: https://github.com/Andre601/octicons-col.vercel.app/blob/master/LICENSE
 [github-src]: https://img.shields.io/badge/-Andre601%2Focticons--col.vercel.app-blue?logo=github&labelColor=777&style=for-the-badge
 [github-href]: https://github.com/Andre601/octicons-col.vercel.app
+
+[mark-github-000]: https://octicons.andre601.ch/mark-github/000
+[check-circle-fill-238636]: https://octicons.andre601.ch/check-circle-fill/238636
+[git-merge-a371f7]: https://octicons.andre601.ch/git-merge/a371f7/100
