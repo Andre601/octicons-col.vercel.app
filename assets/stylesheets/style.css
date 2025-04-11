@@ -23,8 +23,8 @@ li {
   background-color: var(--color-bg);
   color: var(--color-fg);
   max-width: inherit;
-  padding-top: 2em;
   margin: inherit;
+  padding: 2em 0 1em 0;
 }
 
 .markdown-body h1 + p {
