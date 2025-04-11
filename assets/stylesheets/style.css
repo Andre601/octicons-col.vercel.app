@@ -24,7 +24,11 @@ li {
   color: var(--color-fg);
   max-width: inherit;
   padding-top: 2em;
+  margin: inherit;
   margin-bottom: 2em;
+}
+
+.markdown-body h1 + p {
   text-align: center;
 }
 
