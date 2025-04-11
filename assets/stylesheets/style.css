@@ -22,6 +22,13 @@ li {
 .markdown-body h1 {
   background-color: var(--color-bg);
   color: var(--color-fg);
+  max-width: inherit;
+  margin: inherit;
+  padding: 2em 0 1em 0;
+}
+
+.markdown-body h1 + p {
+  text-align: center;
 }
 
 .markdown-body h2, .markdown-body h3 {
@@ -42,11 +49,6 @@ li {
   font-size: 85%;
   margin: 0;
   padding: .2em .4em;
-}
-
-.markdown-body h1 + p {
-  text-align: center;
-  margin: -40px 0 4em 0;
 }
 
 #icons a {
