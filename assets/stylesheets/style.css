@@ -20,6 +20,7 @@ li {
 }
 
 .markdown-body h1 {
+  background-color: var(--color-bg);
   color: var(--color-fg);
   max-width: inherit;
   padding-top: 2em;
