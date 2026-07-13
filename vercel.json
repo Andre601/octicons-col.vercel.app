@@ -4,7 +4,6 @@
   "alias": [
     "octicons-col"
   ],
-  "public": true,
   "routes": [
     { "src": "/.*", "dest": "api/index.ts" }
   ],
