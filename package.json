@@ -6,7 +6,7 @@
   },
   "dependencies": {
     "@primer/octicons": "^19.42.0",
-    "micro": "^10.0.1",
+    "micro": "^10.0.2",
     "micro-fork": "^3.0",
     "my-way": "^2.0.0",
     "serve-marked": "^5.0.0"
